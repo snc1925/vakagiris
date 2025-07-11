@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443716114314",
+    "firebase_url": "https://vakagiris-e8795-default-rtdb.firebaseio.com",
+    "project_id": "vakagiris-e8795",
+    "storage_bucket": "vakagiris-e8795.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443716114314:android:5bd69cd0b221d248345a73",
+        "android_client_info": {
+          "package_name": "com.servo.vakagiris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443716114314-c756hie2i8r6bajgctgffkk4vd6sutb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckjpZCXMuzulxhROTn9u35EAiOy1awwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443716114314-c756hie2i8r6bajgctgffkk4vd6sutb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
