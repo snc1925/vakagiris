@@ -10,7 +10,7 @@ interface DataEntry {
 }
 
 export class GoogleSheetsService {
-  private static readonly SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxAqkIqCxkJwr7TyDq8kwwMWT55q1C-DxScbxkLb6s7IkGfHrbHz8Bd98TnIq4OsL-0MQ/exec';
+  private static readonly SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxzF2ONV2l5hQhKVkVUWoFl3igX8GngGFiKr14p8AwoKlWO2UMN8_iFdUaB6ubZxIkBhQ/exe';
   
   static async submitEntry(entry: DataEntry): Promise<boolean> {
     try {
